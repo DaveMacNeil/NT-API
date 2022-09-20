@@ -1,0 +1,10 @@
+.env
+.env.dev
+.env.prod
+node_modules
+dist
+.idea
+node_modules
+build
+tmp
+temp
